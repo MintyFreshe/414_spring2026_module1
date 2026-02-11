@@ -1,0 +1,1 @@
+Edited .csv file to switch unrecognized non utf-8 apostraphe type which was causing an error reading the .csv 
